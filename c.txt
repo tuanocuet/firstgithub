@@ -1,2 +1,6 @@
 noi dung c
+<<<<<<< HEAD
 sua doi c tren server chinh
+=======
+sua doi de merge
+>>>>>>> origin/master
